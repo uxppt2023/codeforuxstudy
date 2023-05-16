@@ -1,3 +1,3 @@
 # codeforuxstudy
 
-There is a typo heree.
+There is a typo here.
