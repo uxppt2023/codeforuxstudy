@@ -1,3 +1,3 @@
 # codeforuxstudy
 
-There is a typo heer in this file.
+There is a typo here in this file.
